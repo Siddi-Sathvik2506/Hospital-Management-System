@@ -189,7 +189,7 @@ gcc -o hms "Hospital management system.c"
 ---
 
 ## 📘 Quick Function Reference
-+--------------+----------------------------------------------------------------------------------------------+
+
 | Area         | Functions                                                                                    |
 | ------------ | -------------------------------------------------------------------------------------------- |
 | Setup        | `initBeds()`, `initUsers()`, `login()`                                                       |
@@ -201,4 +201,3 @@ gcc -o hms "Hospital management system.c"
 | Pharmacy     | `addMedicine()`, `viewMedicines()`                                                           |
 | Lab          | `addLabResult()`, `viewLabResults()`                                                         |
 | Reports      | `dailyReport()`                                                                              |
-+--------------+----------------------------------------------------------------------------------------------+
